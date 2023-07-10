@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kunal Rai
-- 👀 I’m Data Scientist 
+- 👀 I’m a Data Scientist 
 - 🌱 I’m currently Working with LLMs
 - 📫 kunal.rai@kornferry.com
 
